@@ -228,7 +228,7 @@ export default function Home() {
       <ToastContainer />
       <footer className="flex justify-center items-center py-8 border-t border-gray-300">
         <a
-          href="https://github.com/Olanetsoft/fullstack-interchain-dapp"
+          href="https://github.com/Olanetsoft/polygon-workshop-interchain-dapp"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center font-bold text-blue-500 text-lg"
