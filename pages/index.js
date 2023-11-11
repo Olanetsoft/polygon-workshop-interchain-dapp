@@ -16,7 +16,7 @@ import {
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-import SendMessageContract from "../hardhat/artifacts/contracts/SendMessage.sol/SendMessage.json";
+import SendMessageContract from "../utils/sendMessage.json";
 
 const POLYGON_CONTRACT_ADDRESS =
   process.env.NEXT_PUBLIC_POLYGON_CONTRACT_ADDRESS;
